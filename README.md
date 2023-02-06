@@ -40,7 +40,7 @@ ARDUINO BASED COLOR-CHANGING LIGHTSABER WITH SOUND
 
 <a id="chapter-2"></a>
 ## Schemes
-![SCHEME](https://github.com/EthanRawlins/Lightsaber-Custom-Build/blob/devel/schemes/LightsaberCustomBuildWiringDiagram.jpg)
+![SCHEME](https://github.com/EthanRawlins/Lightsaber-Custom-Build/blob/main/schemes/LightsaberCustomBuildWiringDiagram.jpg)
 
 <a id="chapter-3"></a>
 ## Components
