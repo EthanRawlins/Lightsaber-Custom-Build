@@ -37,6 +37,7 @@ ARDUINO BASED COLOR-CHANGING LIGHTSABER WITH SOUND
 - **Customized-Lightsaber-Controller** - modified arduino sketch
 - **Testing-generating-lightsaber-sounds-mozzi** - Testing audio generation arduino sketch
 - **SDsounds** - Sound files
+- **schemes** - wiring diagrams for original and modified configuration
 
 <a id="chapter-2"></a>
 ## Schemes
